@@ -29,6 +29,9 @@ text = text_lowercase(text)
 text = remove_nonalphanum(text)
 text = remove_stopwords(text)
 
+with open("../raw_corpus/processed.txt",'w') as f:
+	f.write(text)
+
 col = Counter(text.split())
 
 print(len(col))
