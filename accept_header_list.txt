@@ -1,0 +1,148 @@
+modes
+performance
+diversity of operating systems and portability
+osi network model
+tools
+design patterns for application layer protocols
+port numbers
+compilers versus interpreters
+graphical user interfaces
+interrupts
+user interface
+processors in embedded systems
+embedded software architectures
+fields
+real-time and high-performance
+power efficiency
+design goals
+templated
+tcp-ip network services
+operationalized quality models
+deep space communication
+algorithms and protocols
+communicating systems
+threats
+computer organization
+software testing
+reliability
+means
+implementations
+attributes
+code-based analysis
+applications
+disk access and file systems
+definitions
+protocol layering
+microkernels and exokernels
+performance measures
+bandwidth
+real-time operating systems
+interrupt-controlled system
+software development
+jitter
+near real-time
+software requirements
+unix and unix-like operating systems
+subcategories
+virtual memory
+basic requirements
+single- and multi-user
+examples
+just-in-time compilation
+design methods
+embedded
+components
+other
+self-interpreter
+development cycle
+library
+the standardization process
+macos
+real-time
+identifying critical programming errors
+elements of dependability
+ready-made computer boards
+tracing
+formal specification
+border
+osi standardization
+variations
+bufferbloat
+bsd and openbsd
+peripherals
+even deeper space communication
+tcp versus udp
+protocol design
+kernel
+operating-system-level virtualization
+hardware-assisted virtualization
+examples of latency or throughput dominated systems
+cooperative multitasking
+multitasking
+layering
+simple control loop
+dependability of information systems and survivability
+asic and fpga solutions
+microsoft windows
+domain-specific architectures
+networking
+roles
+other examples
+specific devices
+maintainability
+efficiency
+distribution
+preemptive multitasking or multi-threading
+definition
+distributed
+program execution
+bytecode interpreters
+implementation
+criteria for real-time computing
+throughput
+abstract syntax tree interpreters
+memory management
+linux kernel
+hybrid
+monolithic kernels
+size
+microcode
+software layering
+in distributed applications
+core
+error rate
+live vs. real-time
+introduction
+software design
+single-tasking and multi-tasking
+protocol development
+security
+threaded code interpreters
+regression
+software maintenance
+interplay of factors
+distributed computing
+additional software components
+satellite
+instruction set architecture
+types of operating systems
+algorithms
+bsd and its descendants
+terminology and responsibilities
+latency
+linux
+device drivers
+application layer
+system virtual machines
+full virtualization
+taxonomies
+range
+high vs. low volume
+measurement
+debugging
+end stations
+process virtual machines
+offline data transport
+strict layering
+real-time in digital signal processing
+characteristics
