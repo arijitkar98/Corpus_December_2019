@@ -1,0 +1,3 @@
+David A. Patterson, John L. Hennessy-Computer Organization and Design_ The Hardware_Software Interface
+Structured Computer Organization - Tanenbaum
+Computer Structures - Readings and Examples
